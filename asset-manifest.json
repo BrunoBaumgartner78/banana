@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a950e0e.css",
+    "main.js": "/static/js/main.472df174.js",
+    "static/media/bananas1.jpg": "/static/media/bananas1.edb1d2c7581c7e8baf72.jpg",
+    "static/media/bananas.jpg": "/static/media/bananas.b3a092583ca1a3a33133.jpg",
+    "index.html": "/index.html",
+    "main.9a950e0e.css.map": "/static/css/main.9a950e0e.css.map",
+    "main.472df174.js.map": "/static/js/main.472df174.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a950e0e.css",
+    "static/js/main.472df174.js"
+  ]
+}
