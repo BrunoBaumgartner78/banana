@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.b102d3b3.css",
-    "main.js": "/static/js/main.779f92e3.js",
+    "main.js": "/static/js/main.b807747f.js",
+    "static/media/UI.wav": "/static/media/UI.9cf7a2e0910ee8402409.wav",
+    "static/media/Enterin The Skies.mp3": "/static/media/Enterin The Skies.614f9f450398c0c11398.mp3",
+    "static/media/spell.wav": "/static/media/spell.aacf491b84f4a6b24526.wav",
     "static/media/bananas1.jpg": "/static/media/bananas1.edb1d2c7581c7e8baf72.jpg",
     "static/media/bananas.jpg": "/static/media/bananas.b3a092583ca1a3a33133.jpg",
     "index.html": "/index.html",
     "main.b102d3b3.css.map": "/static/css/main.b102d3b3.css.map",
-    "main.779f92e3.js.map": "/static/js/main.779f92e3.js.map"
+    "main.b807747f.js.map": "/static/js/main.b807747f.js.map"
   },
   "entrypoints": [
     "static/css/main.b102d3b3.css",
-    "static/js/main.779f92e3.js"
+    "static/js/main.b807747f.js"
   ]
 }
